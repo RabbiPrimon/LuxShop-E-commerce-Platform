@@ -36,7 +36,7 @@ Git
 Setup Instructions
 Clone the repository
 
-git clone https://github.com/mdzihad42/personal-e-commarce-website.git
+git clone https://github.com/RabbiPrimon/LuxShop-E-commerce-Platform.git
 cd personal-e-commarce-website
 Create a virtual environment
 
